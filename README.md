@@ -31,6 +31,8 @@
 - Context API
 - Git e Github
 
+#
+
 
 ## 📌 Resultado do Projeto:
 <br>
@@ -39,7 +41,7 @@ https://user-images.githubusercontent.com/75498380/233506669-e70fae00-0fca-486d-
 
 #
 
-## Se gostou do projeto, deixe uma estrela ⭐
+## Se gostou do projeto, deixe uma estrela! ⭐
 
 
 
