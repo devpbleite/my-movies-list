@@ -20,7 +20,7 @@
 
 
 ## 💻 Setup do Projeto:
-<br>
+
 
 - React Native
 - Expo
